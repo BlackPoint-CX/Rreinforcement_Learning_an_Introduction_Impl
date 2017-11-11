@@ -6,7 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/reinforcement_learning_an_introduction/DP" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/reinforcement_learning_an_introduction/lib" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="virtualEnvRF" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.5.2 virtualenv at ~/virtualEnv_RF" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">

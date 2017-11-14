@@ -59,7 +59,7 @@ class GridworldEnv(discrete.DiscreteEnv):
 
             # We're stuck in a terminal state
             if is_done(s):
-                P[s][UP] = [(1.0, s, reward, True)]  # ?? what does the tuple mean ??
+                P[s][UP] = [(1.0, s, reward, True)]  # prob, next_state, reward, done
                 P[s][RIGHT] = [(1.0, s, reward, True)]
                 P[s][DOWN] = [(1.0, s, reward, True)]
                 P[s][LEFT] = [(1.0, s, reward, True)]
